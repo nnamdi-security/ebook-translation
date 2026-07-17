@@ -23,8 +23,8 @@ This repository hosts the French translation of my e-book on preventive healthca
 
 The English original is available on:
 
-- **Selar:** [ADD SELAR LINK HERE]
-- **Amazon:** [ADD AMAZON LINK HERE]
+- **Selar:** _https://selar.com/044m811813_
+- **Amazon:** _https://www.amazon.com/dp/B0H8M5HJ1F/ref=sr_1_5?sr=8-5_
 
 ## Purpose of this Repository
 
