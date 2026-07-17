@@ -1,6 +1,6 @@
 # Les Douze du Quotidien (French Translation)
 
-French-language edition of my preventive healthcare e-book, originally published in English as **[ENGLISH TITLE HERE]**.
+French-language edition of my preventive healthcare e-book, originally published in English as **The Daily Dozen**.
 
 ## About
 
